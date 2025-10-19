@@ -1,0 +1,3 @@
+[submodule "src/github.com/larryhou/appstoreconnect"]
+	path = src/github.com/larryhou/appstoreconnect
+	url = git@github.com:larryhou/appstoreconnect.git
